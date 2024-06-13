@@ -2,7 +2,7 @@
 This is another easy Python project in my "EASY AUTOMATION PYTHON PROJECTS SERIE"
 
 # What does it do
-As in the name it combined all pdf into 1
+As in the name it combined all pdf into one
 
 # How to use it
 First install PyPDF2 ->
