@@ -1,5 +1,5 @@
 # PDF Merger
-This is another easy Python projecy in my "EASY AUTOMATION PYTHON PROJECTS SERIE"
+This is another easy Python project in my "EASY AUTOMATION PYTHON PROJECTS SERIE"
 
 # What does it do
 As in the name it combined all pdf into 1
